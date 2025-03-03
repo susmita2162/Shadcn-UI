@@ -8,7 +8,7 @@ export default function Home() {
         <SearchInput />
       </form>
 
-      <Button>Default</Button>
+      {/* <Button>Default</Button>
       <Button size='sm'>small</Button>
       <Button size='lg'>large</Button>
       <Button size='icon'>i</Button>
@@ -18,7 +18,7 @@ export default function Home() {
       <Button variant='secondary'>2nd</Button>
       <Button variant='ghost' size='icon' className='rounded-full'>
         🚀
-      </Button>
+      </Button> */}
     </main>
   );
 }
